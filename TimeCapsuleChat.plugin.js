@@ -1,10 +1,15 @@
 /**
  * @name TimeCapsuleChat
- * @description Il plugin Time Capsule Chat per Vencord permette di inviare messaggi che restano bloccati fino a una data/ora specifica. Include notifiche e integrazione con Google Calendar.
+ * @description Il plugin Time Capsule Chat per Vencord permette di inviare messaggi che si sbloccano solo a una data/ora specifica, con notifica e integrazione Google Calendar.
  * @author Samix10ds
  * @version 1.0.0
  * @license MIT
  */
+
+export default class TimeCapsuleChat {
+    start() {}
+    stop() {}
+}
 
 // ==== UTILS: Crypto ====
 function encryptMessage(message) {
