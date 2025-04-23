@@ -1,0 +1,9 @@
+{
+  "name": "time-capsule-chat",
+  "version": "1.0.0",
+  "description": "A Vencord plugin for sending time-locked messages.",
+  "main": "TimeCapsuleChat.plugin.js",
+  "author": "Samix10ds",
+  "license": "MIT",
+  "dependencies": {}
+}
